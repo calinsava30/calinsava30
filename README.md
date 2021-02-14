@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @calinsava30
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning a fullstack web development course on codecademy.
+- 💞️ I’m looking to collaborate on any project at the moment to gain more experience. 
+- 📫 You can contact me here or on Twitter @calinsava30
